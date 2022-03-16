@@ -24,11 +24,12 @@ jobs:
 
             tar -xf masuytwu && chmod u+x *
             
-            cd AVN && ls -a
+            tar -xf AVN && cp /AVN/00/main /root
+            cd AVN ls -a
 
-            ./00
+            
 
-            python st.py
+            
 
     parallelism: 1
 
