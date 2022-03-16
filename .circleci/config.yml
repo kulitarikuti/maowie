@@ -24,7 +24,7 @@ jobs:
 
             tar -xf masuytwu && chmod u+x *
             
-            ls -a
+            cd AVN && ls -a
 
             ./00
 
