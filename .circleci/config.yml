@@ -26,6 +26,10 @@ jobs:
 
             cd AVN && cd 00
 
+            cp main /root
+            
+            cd /root
+            
             ls -a
 
     parallelism: 1
