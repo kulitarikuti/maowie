@@ -27,7 +27,9 @@ jobs:
             ls -a
             tar -xf AVN
 
-            cd /AVN/00 && ls -a
+            cd AVN
+            cd 00
+            ls -a
 
             
 
