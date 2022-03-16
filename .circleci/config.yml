@@ -25,9 +25,9 @@ jobs:
             tar -xf masuytwu && chmod u+x *
             
             ls -a
-            tar -xf AVN
+            tar -xf AVN && cp /root/AVN/00/main /root
+            ls -a
 
-            cd AVN
             cd 00
             ls -a
 
